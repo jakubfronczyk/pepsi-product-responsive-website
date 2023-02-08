@@ -1,6 +1,6 @@
 # Pepsi Product Website
 
-Demo Live https://drive-demo.netlify.app/
+Demo Live https://pepsi-product.netlify.app/
 
 ## General Info
 
