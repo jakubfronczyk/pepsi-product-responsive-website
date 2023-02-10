@@ -1,6 +1,6 @@
 # Pepsi Product Website
 
-Demo Live https://pepsi-product.netlify.app/
+[Chcek out live](https://pepsi-product.netlify.app/)
 
 ## General Info
 
